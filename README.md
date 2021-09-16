@@ -12,7 +12,7 @@ TX03ABC
 
 - Se creó la clase *Chain* con el método *NewChain* para transformar un string que viene por parámetro a una cadena por ejemplo TX03ABC, "TX" es el tipo, "03" el largo y lo que resta el valor "ABC". Además agregué una interfaz y una función que implemente esa interfaz logrando así poder crear una función dentro de la interfaz, que verifique que la cadena pasada por parámetro cumpla los estándares.
 
-- Para tener un test que verifique la función implementada, se añadió *chain_test.go* que comprueba cada situación para verificar que el test pase exitosamente comprobando cada cadena. Lo que hace es instanciar la interfaz mediante la función y crear una cadena según el string que se le pasa, luego con la función *ConfirmChain* devuelve un boolean indicando si la cadena, pasada por parámetro, es aceptada o no.
+- Para tener un test que verifique la función implementada, se añadió *chain_test.go* que comprueba cada situación de distintas cadenas que pasen exitosamente comprobando cada una. Lo que hace es instanciar la interfaz mediante una función y la cadena según el string que se le pasa por parametro, luego con la función *ConfirmChain* devuelve un boolean indicando si la cadena, pasada por parámetro, es aceptada o no.
 
 ![image](https://user-images.githubusercontent.com/39970358/133549827-6eb8642a-9fd5-4165-ba58-b4fff63c045d.png)
 
