@@ -12,7 +12,7 @@ Crear una funcion que dada una cadena con un formato determinado genere una inst
 
 TX03ABC
 
-*Para esto implemento un programa para la detección de cadenas de caracteres con determinada estructura, en donde cada una debe de respetar un estandar por lo cual se creó un metodo en donde compruebe que esa cadena es aceptada. Todo fue implementado mediante el lenguaje de programación GoLang*
+* Para esto implemento un programa para la detección de cadenas de caracteres con determinada estructura, en donde cada una debe de respetar un estandar por lo cual se creó un metodo en donde compruebe que esa cadena es aceptada. Todo fue implementado mediante el lenguaje de programación GoLang *
 
 ![image](https://user-images.githubusercontent.com/39970358/133549827-6eb8642a-9fd5-4165-ba58-b4fff63c045d.png)
 
