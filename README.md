@@ -6,7 +6,7 @@ Crear una función que dada una cadena con un formato determinado genere una ins
 ```
 TX03ABC
 ```
-**Para esto implementó un programa para la detección de cadenas de caracteres con determinada estructura, en donde cada una debe de respetar un estándar por lo cual se creó un método en donde compruebe que esa cadena es aceptada. Todo fue implementado mediante el lenguaje de programación GoLang**
+**Se implementó un programa para la detección de cadenas de caracteres con determinada estructura, en donde cada una debe de respetar un estándar creando una función en donde se compruebe que esa cadena es aceptada. Todo fue implementado mediante el lenguaje de programación GoLang**
 
 #### Resolución: 
 - Se creó la clase *Chain* con el método *NewChain* para transformar un string que viene por parámetro a una cadena por ejemplo TX03ABC, "TX" es el tipo, "03" el largo y lo que resta el valor "ABC". Además agregué una interfaz y una función que implemente esa interfaz logrando así poder crear una función dentro de la interfaz, que verifique que la cadena pasada por parámetro cumpla los estándares.
